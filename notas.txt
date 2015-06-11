@@ -1,0 +1,5 @@
+
+Usa Grid (grilla) hasta doce columnas
+para modificar esto tendriamos que tocar el codigo fuente y redefinir las variables que hacen que bootstrap trabaje con doce columnas y no otro 
+Cass="span3"  max span12
+dimensiono y divido esos doce segun la cantidad de columnas que quiero
